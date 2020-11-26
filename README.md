@@ -1,1 +1,1 @@
-# Constraint@AAAI2021 - COVID19 Fake News Detection in English
+# UTMN at Constraint@AAAI2021 - COVID19 Fake News Detection in English
